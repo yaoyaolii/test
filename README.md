@@ -89,7 +89,7 @@ test img & templ features
 
 ### noise test  
 
-<img src="test/test3/result/test_5.png" width = "504" height = "536" alt="" align=center />
+<img src="test/test3/result/test_5.png" width = "590" height = "484" alt="" align=center />
 
 ## some issues you may want to know  
 Well, issues are not clearly classified and many questions are discussed in one issue sometimes. For better reference, some typical discussions are pasted here.  

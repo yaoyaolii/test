@@ -89,7 +89,7 @@ test img & templ features
 
 ### noise test  
 
-![test2](test/test3/result/test_5.png, width='375')  
+![test2]<img src="test/test3/result/test_5.png" width = "200" height = "300" alt="" align=center />
 
 ## some issues you may want to know  
 Well, issues are not clearly classified and many questions are discussed in one issue sometimes. For better reference, some typical discussions are pasted here.  

@@ -1,0 +1,6 @@
+%YAML:1.0
+---
+class_id: test
+pyramid_levels: 2
+template_pyramids:
+   []
